@@ -1,6 +1,8 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+## Name:Kailash S M
+## Register No : 212222040068
 # AIM
-## To write a lex program to implement lexical analyzer to recognize a few patterns.
+To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
 
 1.	Start the program.
@@ -31,7 +33,7 @@
 6.	Compile the lex program with lex compiler to produce output file as lex.yy.c. eg $ lex filename.l $ cc lex.yy.c
 7.	Compile that file with C compiler and verify the output.
 
-# PROGRAM
+# PROGRAM:
 ```
 #include <stdio.h>
 #include <ctype.h>
@@ -76,8 +78,11 @@ int main() {
     return 0;
 }
 ```
-# OUTPUT
-![image](https://github.com/user-attachments/assets/1b898df6-800f-4fa8-ad67-28c37dcbf0c1)
+# OUTPUT:
 
-# RESULT
-## The lexical analyzer is implemented using lex and the output is verified.
+![Screenshot 2024-10-17 174059](https://github.com/user-attachments/assets/3222387c-1814-4013-a161-3c6cd53a7d2f)
+
+
+# RESULT:
+The lexical analyzer is implemented using lex and the output is verified.
+
